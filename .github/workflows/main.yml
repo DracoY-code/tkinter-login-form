@@ -1,0 +1,5 @@
+name: A workflow for Action Truth file
+on:
+  push:
+    branches:
+      - master
