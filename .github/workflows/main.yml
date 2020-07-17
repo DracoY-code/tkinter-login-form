@@ -1,3 +1,6 @@
+name: The workflow for Action Truth file
+on: push
+
 jobs:
   build:
     name: Action Truth action
