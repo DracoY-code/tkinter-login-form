@@ -2,8 +2,6 @@ name: "Action Truth"
 description: "Prints to console"
 author: "DracoY-code@github.com"
 
-inputs:
-
 runs:
   using: "docker"
   image: "Dockerfile"
