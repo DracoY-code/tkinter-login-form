@@ -1,0 +1,7 @@
+jobs:
+  build:
+    name: Action Truth action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: action/checkout@v1
+      - uses: ./action-a
