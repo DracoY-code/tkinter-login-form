@@ -5,3 +5,6 @@ author: "DracoY-code@github.com"
 runs:
   using: "docker"
   image: "Dockerfile"
+  
+branding:
+  color: "red"
